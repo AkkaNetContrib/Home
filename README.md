@@ -1,5 +1,3 @@
-# Home
-
 ## Rules
 - Each project should have at least one maintainer (from the core team or external) and his/her name is mentioned in Readme.md
 - Each project should have configured continious integration (Akka.Net TeamCity, AppVeyor, Travis, etc)
