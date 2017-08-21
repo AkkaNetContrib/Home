@@ -10,7 +10,7 @@ Welcome to the Summer Hackfest with Akka.NET!
 All of the plugins in the [Akka.NET Contrib organization](https://github.com/akkanetcontrib) need to be upgraded to support:
 
 * MSBuild 15,
-* .NET Standard 1.6 (not doing 2.0 yet due to its recency,)
+* .NET Standard 1.6 (not doing 2.0 yet due to its recency),
 * .NET 4.5, for backwards compatibility with our current users for existing plugins, and
 * Akka.NET 1.3.0.
 
