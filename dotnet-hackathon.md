@@ -31,7 +31,7 @@ Each project should have, at a minimum:
 You can use the [`Petabridge.Templates`](https://github.com/petabridge/petabridge-dotnet-new) package with the `dotnet` CLI to scaffold a project with all of these requirements automatically. You can see an example [where a user did this with the Akka.TestKit.NUnit package here](https://github.com/AkkaNetContrib/Akka.TestKit.Nunit/pull/22).
 
 ## Communication
-The Akka.NET core development team is here to help and you can [use our Gitter chat](https://gitter.im/akkadotnet/akka.net) to communicate with the team or you can post on any of the open issues in any repositories in this organization. We're here to help you setup CI, debug issues with the Akka.NET runtime, and get packages published to the [https://www.nuget.org/profiles/AkkaNetContrib](AkkaNetContrib NuGet account).
+The Akka.NET core development team is here to help and you can [use our Gitter chat](https://gitter.im/akkadotnet/akka.net) to communicate with the team or you can post on any of the open issues in any repositories in this organization. We're here to help you setup CI, debug issues with the Akka.NET runtime, and get packages published to the [AkkaNetContrib NuGet account](https://www.nuget.org/profiles/AkkaNetContrib).
 
 ## Events
 None as of yet, but we may schedule a virtual one later this week, but subscribe to [Gitter chat](https://gitter.im/akkadotnet/akka.net) to be notified.
