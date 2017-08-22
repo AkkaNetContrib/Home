@@ -23,7 +23,7 @@ Second, if you have some ideas for a new plugin that might be helpful to the Akk
 Each project should have, at a minimum:
 
 1. A `src/` folder with the root source code;
-2. 
+2. A readme that clearly explains what the project does, how to install it, and how to use it;
 3. Unit tests to validate the integrity of the plugin; 
 4. Apache 2.0 license; and
 5. A build script capable of building, testing, and publishing each plugin to NuGet.
